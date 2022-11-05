@@ -1,6 +1,6 @@
 # Coding
 
-# ===================================================================================================================
+# =============================================================
 
 OOPs Concepts:
 Class => Operators and Methods
@@ -13,7 +13,7 @@ Consider a real-life example of encapsulation, in a company, there are different
 
 Encapsulation also leads to data abstraction or hiding. As using encapsulation also hides the data. In the above example, the data of any of the section like sales, finance or accounts are hidden from any other section.
 
-===================================================================================================================
+=============================================================
 
 2. Abstraction: Data abstraction is one of the most essential and important features of object-oriented programming in C++. Abstraction means displaying only essential information and hiding the details. Data abstraction refers to providing only essential information about the data to the outside world, hiding the background details or implementation.
 
@@ -22,7 +22,7 @@ Consider a real-life example of a man driving a car. The man only knows that pre
 Abstraction using Classes: We can implement Abstraction in C++ using classes. The class helps us to group data members and member functions using available access specifiers. A Class can decide which data member will be visible to the outside world and which is not.
 Abstraction in Header files: One more type of abstraction in C++ can be header files. For example, consider the pow() method present in math.h header file. Whenever we need to calculate the power of a number, we simply call the function pow() present in the math.h header file and pass the numbers as arguments without knowing the underlying algorithm according to which the function is actually calculating the power of numbers.
 
-===================================================================================================================
+=============================================================
 
 3. Polymorphism: The word polymorphism means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form.
 
@@ -37,7 +37,7 @@ Function Overloading: Function overloading is using a single function name to pe
 Polymorphism is extensively used in implementing inheritance.
 Example: Suppose we have to write a function to add some integers, some times there are 2 integers, some times there are 3 integers. We can write the Addition Method with the same name having different parameters, the concerned method will be called according to parameters.
 
-===================================================================================================================
+=============================================================
 
 4. Inheritance: The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important features of Object-Oriented Programming.
 
@@ -45,7 +45,7 @@ Example: Suppose we have to write a function to add some integers, some times th
 - Super Class:The class whose properties are inherited by sub class is called Base Class or Super class.
 - Reusability: Inheritance supports the concept of “reusability”, i.e. when we want to create a new class and there is already a class that includes some of the code that we want, we can derive our new class from the existing class. By doing this, we are reusing the fields and methods of the existing class.
 
-# ===================================================================================================================
+# =============================================================
 
 Linked List
 
