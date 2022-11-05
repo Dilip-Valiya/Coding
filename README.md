@@ -1,6 +1,6 @@
 # Coding
 
-# =============================================================
+# ======================================
 
 OOPs Concepts:
 Class => Operators and Methods
@@ -45,7 +45,7 @@ Example: Suppose we have to write a function to add some integers, some times th
 - Super Class:The class whose properties are inherited by sub class is called Base Class or Super class.
 - Reusability: Inheritance supports the concept of “reusability”, i.e. when we want to create a new class and there is already a class that includes some of the code that we want, we can derive our new class from the existing class. By doing this, we are reusing the fields and methods of the existing class.
 
-# =============================================================
+# ======================================
 
 Linked List
 
