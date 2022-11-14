@@ -9,6 +9,11 @@ void swap(int *xp, int *yp)
     *yp = tp;
 }
 
+// bubble sort always swap adjacent(right next to it) element if it's bigger.
+// So it's stable sorting algorithm.
+
+// O(N^2): (N-1 comparisons) * (N-1 times)
+
 class Solution
 {
 public:
